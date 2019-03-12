@@ -27,3 +27,30 @@
 	float: none;
 	text-align: center;
 }
+
+.img-post{
+	padding: 10px;
+}
+
+@media (min-width: 992px){
+	.img-post{
+		margin-top: 20%;
+	}
+}
+
+.icon{
+	margin-left: 40%;
+	margin-top: 20%;
+	font-size: 35px;
+
+}
+
+.icon-search{
+	font-size: 20px;
+	margin-left: 35%;
+}
+
+.buscador{
+	width: 90%;
+	border-radius: 10px;
+}
