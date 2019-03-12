@@ -1,0 +1,29 @@
+.iconos img{
+	height: 30px;
+	width: 30px;
+	float: right;
+	margin-top: 50px;
+}
+
+.logo img{
+	height: 80px;
+	width: 80px;
+}
+
+.barra-superior, .iconos, .logo{
+	min-height: 80px;
+}
+
+.barra-navegacion{
+	margin: 0 auto;
+	display: table;
+	table-layout: auto;
+	float: none;
+	width: 100%;
+}
+
+.barra-navegacion a{
+	display: table-cell;
+	float: none;
+	text-align: center;
+}
